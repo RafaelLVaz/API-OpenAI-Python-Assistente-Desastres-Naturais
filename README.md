@@ -15,8 +15,9 @@ Este projeto tem como objetivo desenvolver um chatbot com base na API do ChatGPT
 
 ##  Tecnologias Utilizadas
 
-- Python 3
-- OpenAI API
+- Python
+- Few-Shot-Leaning
+- OpenAI API (modelo GPT-4.1 mini)
 - Google Colab
 
 ---
